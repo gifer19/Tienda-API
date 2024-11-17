@@ -124,10 +124,5 @@ return [
     ],
     
     
-    'providers'=> [
-        //jwt
-     Tymon\JWTAuth\Providers\LaravelServiceProvider
-    ],
-
 
 ];
